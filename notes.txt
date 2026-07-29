@@ -1,2 +1,0 @@
-My first Git practice file.
-Git can track every change I make.
